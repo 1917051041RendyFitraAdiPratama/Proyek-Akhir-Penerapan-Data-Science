@@ -103,7 +103,7 @@ streamlit run app.py
 
 4. Setelah berhasil dijalankan, masukkan data yang sesuai kemudian klik tombol **Predict** untuk mengetahui status siswa tersebut.
 
-Sedangkan untuk menjalankannya melalui link, bisa diakses dengan klik link berikut: [Jaya Jaya Institute App]()
+Sedangkan untuk menjalankannya melalui link, bisa diakses dengan klik link berikut: [Jaya Jaya Institute App](https://belajar-penerapan-data-sciencesubmission-2-to0yk53p2br.streamlit.app/)
 
 ## Conclusion
 
